@@ -16,7 +16,7 @@ jQuery(function ($) {
     if (supportsAudio) {
         var index = 0,
             playing = false;
-        mediaPath = 'http://quiet-swan.static.domains/media/',
+        mediaPath = 'http://heylistentothis.github.io/neuroqueer/media/',
         extension = '',
         tracks = [{
             "track": 1,
